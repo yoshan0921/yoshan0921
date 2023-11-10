@@ -8,6 +8,7 @@ Software Developer
 * ✉️  You can contact me at [yhana0921@gmail.com](mailto:yhana0921@gmail.com)
 * 🧠  I'm learning FastAPI
 * 🤝  I'm open to collaborating on interesting projects
+* 🔥  I’m challenging Atcoder programming content [![yoshan](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fyoshan)](https://atcoder.jp/users/yoshan)
 
 ### Skills
 
