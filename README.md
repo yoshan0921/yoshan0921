@@ -4,14 +4,15 @@ Hi 👋 My name is Yosuke Hanaoka
 Software Developer
 ------------------
 
+### About me
+
 * 🌍  I'm based in Vancouver, Canada
 * ✉️  You can contact me at [yhana0921@gmail.com](mailto:yhana0921@gmail.com)
-* 🧠  I'm learning FastAPI
+* 🧠  I'm currently learning Machine Learning
 * 🤝  I'm open to collaborating on interesting projects
 * 🔥  I’m challenging Atcoder programming content [![yoshan](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fyoshan)](https://atcoder.jp/users/yoshan)
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -24,9 +25,10 @@ Software Developer
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-
 </p>
 
+### Projects
+To be updated.
 
 ### Socials
 
