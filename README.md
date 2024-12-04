@@ -35,8 +35,12 @@ Software Developer
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Projects
-To be updated.
+### Dev.to articles
+
+* [Fitness App Development with Real-Time Posture Detection using MediaPipe and React](https://dev.to/yoshan0921/fitness-app-development-with-real-time-posture-detection-using-mediapipe-38do)
+* [Machine Learning Model Deployment as a Web App using Streamlit](https://dev.to/yoshan0921/machine-learning-model-deployment-as-a-web-app-using-streamlit-2c5p)
+* [Creating Maps in Streamlit Apps using Folium](https://dev.to/yoshan0921/creating-maps-in-streamlit-apps-using-folium-lmm)
+* [Boost Python Performance: A Guide to Asyncio, Threading, and Multiprocessing](https://dev.to/yoshan0921/accelerate-python-programs-with-concurrent-programming-28j9)
 
 ### Socials
 
