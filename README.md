@@ -37,7 +37,7 @@ Software Developer
 
 ### Dev.to articles
 
-* [Developing an ASL App with Kaggle’s Top Model and Customized MediaPipe Gesture Model](https://dev.to/yoshan0921/developing-an-asl-app-with-kaggles-top-model-and-customized-mediapipe-gesture-model-5eaa)
+* [Developing an ASL Learning App with Kaggle’s Top Model and Customized MediaPipe Gesture Model](https://dev.to/yoshan0921/developing-an-asl-app-with-kaggles-top-model-and-customized-mediapipe-gesture-model-5eaa)
 * [Fitness App Development with Real-Time Posture Detection using MediaPipe and React](https://dev.to/yoshan0921/fitness-app-development-with-real-time-posture-detection-using-mediapipe-38do)
 * [Machine Learning Model Deployment as a Web App using Streamlit](https://dev.to/yoshan0921/machine-learning-model-deployment-as-a-web-app-using-streamlit-2c5p)
 * [Creating Maps in Streamlit Apps using Folium](https://dev.to/yoshan0921/creating-maps-in-streamlit-apps-using-folium-lmm)
