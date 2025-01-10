@@ -10,7 +10,6 @@ Software Developer
 * ✉️  You can contact me at [yhana0921@gmail.com](mailto:yhana0921@gmail.com)
 * 🧠  I'm currently learning Machine Learning
 * 🤝  I'm open to collaborating on interesting projects
-* 🔥  I’m challenging Atcoder programming content [![yoshan](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fyoshan)](https://atcoder.jp/users/yoshan)
 
 ### Skills
 
@@ -37,7 +36,7 @@ Software Developer
 
 ### Dev.to articles
 
-* [Developing an ASL Learning App with Kaggle’s Top Model and Customized MediaPipe Gesture Model](https://dev.to/yoshan0921/developing-an-asl-app-with-kaggles-top-model-and-customized-mediapipe-gesture-model-5eaa)
+* [Developing a Sign Language Learning App with Kaggle’s Top Model and Customized MediaPipe Gesture Model](https://dev.to/yoshan0921/developing-an-asl-app-with-kaggles-top-model-and-customized-mediapipe-gesture-model-5eaa)
 * [Fitness App Development with Real-Time Posture Detection using MediaPipe and React](https://dev.to/yoshan0921/fitness-app-development-with-real-time-posture-detection-using-mediapipe-38do)
 * [Machine Learning Model Deployment as a Web App using Streamlit](https://dev.to/yoshan0921/machine-learning-model-deployment-as-a-web-app-using-streamlit-2c5p)
 * [Creating Maps in Streamlit Apps using Folium](https://dev.to/yoshan0921/creating-maps-in-streamlit-apps-using-folium-lmm)
